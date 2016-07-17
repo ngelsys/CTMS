@@ -1,0 +1,15 @@
+{
+  "name": "edc",
+  "version": "0.0.0",
+  "description": "EDC",
+  "main": "app.js",
+  "author": {
+    "name": "Mac",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
